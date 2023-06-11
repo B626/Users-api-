@@ -1,0 +1,32 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Arial', sans-serif;
+}
+
+.wrapper{
+   padding: 70px;
+}
+
+h1{
+   text-align: center;
+   font-size: 50px;
+   margin: 0 0 50px 0;
+}
+
+.users-area{
+
+}
+
+.users-area__item{
+   display: flex;
+   width: 100%;
+   height: 60px;
+}
+
+.users-area__area{
+   width: 100%;
+   display: flex;
+   flex-wrap: wrap;
+}
